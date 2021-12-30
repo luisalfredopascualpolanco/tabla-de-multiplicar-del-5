@@ -1,0 +1,7 @@
+D:\Programas\Cursos\C# ya\tabla-de-multiplicar-del-5\proyecto10.8\proyecto10.8\bin\Debug\proyecto10.8.exe.config
+D:\Programas\Cursos\C# ya\tabla-de-multiplicar-del-5\proyecto10.8\proyecto10.8\bin\Debug\proyecto10.8.exe
+D:\Programas\Cursos\C# ya\tabla-de-multiplicar-del-5\proyecto10.8\proyecto10.8\bin\Debug\proyecto10.8.pdb
+D:\Programas\Cursos\C# ya\tabla-de-multiplicar-del-5\proyecto10.8\proyecto10.8\obj\Debug\proyecto10.8.csproj.AssemblyReference.cache
+D:\Programas\Cursos\C# ya\tabla-de-multiplicar-del-5\proyecto10.8\proyecto10.8\obj\Debug\proyecto10.8.csproj.CoreCompileInputs.cache
+D:\Programas\Cursos\C# ya\tabla-de-multiplicar-del-5\proyecto10.8\proyecto10.8\obj\Debug\proyecto10.8.exe
+D:\Programas\Cursos\C# ya\tabla-de-multiplicar-del-5\proyecto10.8\proyecto10.8\obj\Debug\proyecto10.8.pdb
